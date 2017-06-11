@@ -1,0 +1,1 @@
+function demo(o){return o}function demo(o){return o}var a=50;console.log(demo(a));var bb=50;console.log(demo(bb));
